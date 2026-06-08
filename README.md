@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/narendra">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://www.linkedin.com/in/narendramummini/">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:your.email@example.com">
